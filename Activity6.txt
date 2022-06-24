@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Activity1</title>
+</head>
+<body>
+<p>List</p>
+<p><a href="embedded.html"></a>
+<p><a href="external.html">CSS-Bootstrap1</a>
+<p><a href="inline.html">CSS-Bootstrap1</a>
+
+</body>
+</html>
